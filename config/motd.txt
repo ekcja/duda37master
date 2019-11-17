@@ -1,0 +1,6 @@
+<!-- Most valid html will work in here, excluding images. -->
+
+<h1>Welcome to Stacja Duda-37!</h1>
+<h1>Witamy na Stacji Duda-37!</h1>
+
+<i>Polacy w kosmosie + shenanigany = to. Wersja 1.3: Transporter i Ruska inwazja.</i>
